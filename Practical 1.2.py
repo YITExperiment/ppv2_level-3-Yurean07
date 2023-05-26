@@ -3,5 +3,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 ========= RESTART: C:/Users/Sugashiny/Documents/python/Practical 1.1.py ========
 Hello, World
-what is your name? Agshayan
-Hello  Agshayan
+what is your name? Yurean
+Hello Yurean
